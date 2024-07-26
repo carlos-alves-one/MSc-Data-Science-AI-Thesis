@@ -72,4 +72,4 @@ We welcome contributions from researchers and practitioners alike. If you have s
 
 ## License
 
-This work is shared for educational and research purposes. Please cite appropriately if you use any part of this research in your work.
+This project is shared for educational and research purposes. Please cite appropriately if you use any part of this research in your work.
