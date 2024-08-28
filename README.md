@@ -34,7 +34,7 @@ The project utilizes a large-scale weather dataset from the Kaggle repository's 
 2. Exploratory Data Analysis
 3. Feature Engineering
 4. Machine Learning Model Development
-   - Implementing and comparing different algorithms, focusing on linear and logistic regression
+   - Implementing and comparing diverse machine learning algorithms, including linear and logistic regression, Long Short-Term Memory (LSTM) networks, Convolutional Neural Networks (CNNs), and Multilayer Perceptrons (MLPs)
 5. Model Evaluation
    - Using metrics like RMSE and AUC-ROC
 6. Hyperparameter Tuning
