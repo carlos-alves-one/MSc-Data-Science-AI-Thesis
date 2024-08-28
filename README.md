@@ -38,8 +38,6 @@ The project utilizes a large-scale weather dataset from the Kaggle repository's 
 5. Model Evaluation
    - Using metrics like RMSE and AUC-ROC
 6. Hyperparameter Tuning
-7. Advanced Analysis
-   - Principal Component Analysis (PCA) to identify significant variables explaining data variance
 
 ## Technologies Used
 
