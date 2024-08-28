@@ -4,8 +4,6 @@
 
 This project aims to develop a machine learning model for short-term solar energy forecasting using Apache Spark's MLlib library and a comprehensive weather dataset. The goal is to address the challenge of optimizing solar energy management and grid integration through accurate predictions of solar energy production.
 
-Here's the updated text incorporating the new information:
-
 ## Data Source
 
 The data for this project is sourced from the Kaggle repository, specifically from the "Enefit - Predict Energy Behavior of Prosumers" available at:
